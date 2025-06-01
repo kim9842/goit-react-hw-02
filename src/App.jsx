@@ -1,9 +1,9 @@
 import { useState, useEffect } from "react";
 
-import Description from "./сomponents/Description/Description";
-import Feedback from "./сomponents/Feedback/Feedback";
-import Options from "./сomponents/Options/Options";
-import Notifications from "./сomponents/Notification/Notification";
+import Description from "./сomponents123/Description/Description";
+import Feedback from "./сomponents123/Feedback/Feedback";
+import Options from "./сomponents123/Options/Options";
+import Notifications from "./сomponents123/Notification/Notification";
 const FEEDBACK_STORAGE_KEY = "feedbackData";
 
 function App() {
